@@ -8,7 +8,7 @@ function SendMail()
         message : document.getElementById("Message").value
 
     }
-    emailjs.send("service_5iguxir","template_dxbqruc",params).then(
+    emailjs.send("service_murabitor","template_1ylipws",params).then(
         (res) => {alert("Your Message has been sended");}
     );
 }
