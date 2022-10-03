@@ -13,7 +13,7 @@ window.onload = function() {
 
 
 
-        emailjs.send("service_5iguxir", "template_dxbqruc", params).then(
+        emailjs.send("service_alfa2001", "template_etyww2w", params).then(
             (res) => { 
             alertify.set('notifier', 'position', 'top-right');
             alertify.success('Your Message has been sended successfully');}
