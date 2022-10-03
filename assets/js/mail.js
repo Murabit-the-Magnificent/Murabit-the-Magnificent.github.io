@@ -1,14 +1,22 @@
 
+window.onload = function() {
 
-function SendMail()
-{
-    var params ={
-        from_name : document.getElementById("Name").value,
-        email : document.getElementById("Email").value,
-        message : document.getElementById("Message").value
+    document.getElementById("contact_form").addEventListener('submit',function(event){
+        event.preventDefault();
 
-    }
-    emailjs.send("service_murabitor","template_1ylipws",params).then(
-        (res) => {alert("Your Message has been sended");}
-    );
+        var params = {
+            from_name: document.getElementById("Name").value,
+            email: document.getElementById("Email").value,
+            message: document.getElementById("Message").value
+
+        }
+
+
+
+        emailjs.send("service_5iguxir", "template_dxbqruc", params).then(
+            (res) => { 
+            alertify.set('notifier', 'position', 'top-right');
+            alertify.success('Your Message has been sended successfully');}
+        );
+    });
 }
