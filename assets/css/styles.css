@@ -307,7 +307,8 @@ img {
 }
 
 .home__blob-img {
-  width: 170px;
+  width: 110.5px;
+  transform: scale(0.8);
 }
 
 .home__data {
@@ -522,7 +523,7 @@ img {
 }
 
 .skills__js {
-  width: 30%;
+  width: 50%;
 }
 
 .skills__dart {
