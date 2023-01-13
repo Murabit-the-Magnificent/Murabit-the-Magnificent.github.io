@@ -7,7 +7,7 @@ Welcome to my website! This website features a variety of content including my w
 
 ## Screenshot
 
-![Screenshot](https://github.com/Murabit-the-Magnificent/Murabit-the-Magnificent.github.io/blob/screenshot.png)
+![Screenshot](https://github.com/Murabit-the-Magnificent/Murabit-the-Magnificent.github.io/blob/main/screenshot.png)
 
 ## Getting Started
 
