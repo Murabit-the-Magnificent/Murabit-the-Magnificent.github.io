@@ -307,7 +307,7 @@ img {
 }
 
 .home__blob-img {
-  width: 110.5px;
+  width: 100%;
   transform: scale(0.8);
 }
 
