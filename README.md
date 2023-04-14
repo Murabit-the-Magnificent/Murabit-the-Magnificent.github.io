@@ -7,7 +7,7 @@ Welcome to my website! This website features a variety of content including my w
 
 ## Screenshot
 
-![Screenshot](/screenshot/0.png)
+![MURABIT-PASHA Banner](https://github.com/MURABIT-PASHA/Images/blob/main/web_home_screenshot.png)
 
 ## Getting Started
 
