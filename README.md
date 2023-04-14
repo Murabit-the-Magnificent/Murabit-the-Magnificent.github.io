@@ -1,7 +1,7 @@
 
 # Personal Website
 
-[![GitHub license](https://img.shields.io/github/license/USERNAME/REPO.svg)](https://github.com/USERNAME/REPO/blob/master/LICENSE)
+[![GitHub license](https://img.shields.io/github/license/Murabit-the-Magnificent/Murabit-the-Magnificent.github.io.svg)](https://github.com/Murabit-the-Magnificent/Murabit-the-Magnificent.github.io/master/LICENSE)
 
 Welcome to my website! This website features a variety of content including my work portfolio, articles I have written, and information about my work experience. In addition to browsing this content, visitors to the site can also use a number of useful tools, such as an image generator. The source code for the website is available on Github as an open source project, and contributions are welcome. Thank you for visiting!
 
